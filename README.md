@@ -1,5 +1,5 @@
 # Golden Gate Bridge Asset
-Low Poly Golden Gate Bridge
+"Low" Poly Golden Gate Bridge
 
 Screenshots:
 ![](https://github.com/Mice0x/Golden-Gate-Bridge-Asset/blob/master/Screenshots/Screenshot1.PNG)
